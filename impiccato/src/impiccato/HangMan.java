@@ -2,7 +2,7 @@ package impiccato;
 
 public class HangMan {
     
-    private String parola = "negracci";
+    private String parola = "";
     private int[] mask;
     private int tentativi;
 
